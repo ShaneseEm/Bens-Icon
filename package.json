@@ -1,5 +1,5 @@
 {
-  "name": "aurora-hotel-website",
+  "name": "bensicon-hotel-website",
   "version": "1.0.0",
   "description": "Vanilla HTML/CSS/JS hotel website with Node.js backend",
   "main": "server.js",

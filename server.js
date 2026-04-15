@@ -50,5 +50,8 @@ app.use((req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Aurora Hotel site running at http://localhost:${PORT}`);
+  console.log(`Bensicon Hotel site running at http://localhost:${PORT}`);
 });
+
+
+module.exports = app;

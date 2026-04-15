@@ -1,4 +1,4 @@
-# Aurora Grand Hotel Website
+# Bensicon Grand Hotel Website
 
 A vanilla HTML/CSS/JS hotel landing page with a simple Node.js backend.
 
